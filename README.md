@@ -8,3 +8,4 @@ pytorch
 sklearn
 dgl
 
+Raw data can be accessed from zenodo (https://zenodo.org/records/15034076).
