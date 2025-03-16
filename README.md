@@ -8,4 +8,3 @@ pytorch
 sklearn
 dgl
 
-The data and trained model will be published after the article is published.
