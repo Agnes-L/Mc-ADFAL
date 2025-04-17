@@ -1,0 +1,5 @@
+Example Input File:
+Ensure the input csv file follows the structure as shown below:
+
+compound_iso_smiles	target_sequence	affinity
+...	...	...
