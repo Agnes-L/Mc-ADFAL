@@ -24,9 +24,9 @@ affinity: Binding affinity.
 If you need to change the column names, please modify them in the preprocessing.py file.
 
 Model Training
-Once the data files are ready, you can start training the model. In the command line, navigate to the Model/regression directory and run the following commands:
+Once the data files are ready, you can start training the model. In the command line, navigate to the Model directory and run the following commands:
 
-cd Model/regression
+cd C:\Model
 
 python preprocessing.py
 
