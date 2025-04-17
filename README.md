@@ -11,7 +11,7 @@ dgl
 Raw data can also be accessed from zenodo (https://zenodo.org/records/15034076).
 
 Data Preparation
-Once the environment is set up, you need to prepare the whole data files (.csv) and place them in the ..data\davis\raw folder. The data file should follow these format requirements:
+Once the environment is set up, you need to prepare the whole data files (.csv) and place them in the ..data\davis\raw folder. (Note:"davis" can be replaced with any folder name.) The data file should follow these format requirements:
 
 Data Columns:
 
@@ -41,6 +41,8 @@ Model Testing
 After training the model, you can test it using the following command. Make sure you have the trained model file ready, and specify the model path:
 
 python test.py --dataset dataset --model_path model_path
+
+
 
 --dataset: Specify the name of the dataset you are using.
 
