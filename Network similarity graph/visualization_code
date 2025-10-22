@@ -1,3 +1,4 @@
+# gpcr_chem.csv and tox21_chem.csv can be obtained from the data folder following the data processing procedure described in the text.
 import pandas as pd
 import numpy as np
 df_gpcr = pd.read_csv('gpcr_chem.csv')
@@ -73,7 +74,7 @@ nsgview.render(
     annotatePosStyle='offset points',
     sizeBase=0.50,
     sizeScale=70,
-    cmapName='Greys_r',
+    cmapName='gray',
     nLegend_LD=4,
     bboxTup=(0.25, 0.5, 0.25, 0.8),
     showLegend=True,
