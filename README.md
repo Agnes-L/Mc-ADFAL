@@ -49,7 +49,7 @@ python test.py --dataset dataset --model_path model_path
 --model_path: Path to the saved model.
 
 
-Application Domain Characterization — ADFAL
+Applicability Domain Characterization — ADFAL
 
 For calculating AD metrics of the ADFAL, please refer to the AD.py file in the repository: https://github.com/Agnes-L/ML-classifiers-with-ADSAL
 
