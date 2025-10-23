@@ -49,9 +49,9 @@ python test.py --dataset dataset --model_path model_path
 --model_path: Path to the saved model.
 
 
-Application Domain Representation — ADFAL
+Application Domain Characterization — ADFAL
 
-For calculating AD metrics, please refer to the AD.py file in the repository: https://github.com/Agnes-L/ML-classifiers-with-ADSAL
+For calculating AD metrics of the ADFAL, please refer to the AD.py file in the repository: https://github.com/Agnes-L/ML-classifiers-with-ADSAL
 
 In this implementation, similarity calculations have been updated from the previous molecular structure similarity to multimodal feature similarity.
 For details on multimodal feature similarity, please refer to the description in the paper.
